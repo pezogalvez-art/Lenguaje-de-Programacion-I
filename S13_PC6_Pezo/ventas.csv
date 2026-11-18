@@ -1,0 +1,11 @@
+fecha,producto,categoria,cantidad,precio
+2026-11-01,"Laptop Pro, 16GB RAM",Electrónica,5,3250.50
+2026-11-01,Cuaderno A4 Rayado,Papelería,1,8.40
+2026-11-02,Error Cantidad Cero,Electrónica,0,150.00
+2026-11-02,"Café Amazónico, Tostado 500g",Alimentación,5,24.90
+2026-11-03,Fila Incompleta,Papelería,4
+2026-11-03,Silla Ergonómica Oficina,Mueblería,3,480.00
+2026-11-04,Precio Negativo,Alimentación,3,-12.50
+2026-11-04,"Mouse Inalámbrico, Óptico",Electrónica,3,65.25
+2026-11-05,Archivador Palanca Oficio,Papelería,6,14.75
+2026-11-05,Cantidad Texto,Mueblería,dos,210.00

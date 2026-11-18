@@ -1,0 +1,9 @@
+codigo,nombre,categoria,precio,stock_inicial,stock_minimo
+P104,Arroz Superior 5kg,Abarrotes,18.8,25,12
+P101,Aceite Vegetal 1L,Abarrotes,8.2,20,7
+P108,Azúcar Rubia 1kg,Abarrotes,4.1,20,9
+P103,Fariña de Yuca 1kg,Regionales,6.8,21,6
+P106,Leche Evaporada 400g,Lácteos,4.9,12,8
+P102,Café Amazónico 250g,Regionales,14.5,10,10
+P107,Detergente en Polvo 1kg,Limpieza,9.8,22,10
+P105,Atún en Trozos 170g,Conservas,5.5,22,6

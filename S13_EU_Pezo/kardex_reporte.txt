@@ -1,0 +1,32 @@
+========================================================================
+               REPORTE DE KARDEX MENSUAL - BODEGA IQUITOS               
+========================================================================
+Movimientos aplicados : 9
+Movimientos rechazados: 5
+------------------------------------------------------------------------
+CÓDIGO  PRODUCTO                  CATEGORÍA        STOCK      VALOR (S/)
+------------------------------------------------------------------------
+P101    Aceite Vegetal 1L         Abarrotes           20          164.00
+P102    Café Amazónico 250g       Regionales          18          261.00
+P103    Fariña de Yuca 1kg        Regionales          16          108.80
+P104    Arroz Superior 5kg        Abarrotes           24          451.20
+P105    Atún en Trozos 170g       Conservas           22          121.00
+P106    Leche Evaporada 400g      Lácteos              7           34.30
+P107    Detergente en Polvo 1kg   Limpieza            30          294.00
+P108    Azúcar Rubia 1kg          Abarrotes           13           53.30
+------------------------------------------------------------------------
+VALOR TOTAL DEL INVENTARIO:                                     1,487.60
+Productos bajo stock mínimo: P106
+------------------------------------------------------------------------
+TOP 3 PRODUCTOS POR VALOR EN INVENTARIO:
+  1. P104 - Arroz Superior 5kg       S/     451.20
+  2. P107 - Detergente en Polvo 1kg  S/     294.00
+  3. P102 - Café Amazónico 250g      S/     261.00
+------------------------------------------------------------------------
+LÍNEAS RECHAZADAS DE movimientos.csv:
+  Línea  4: dato inválido        | 04,DEVOLUCION,P103,5
+  Línea  6: dato inválido        | código inexistente 'P999'
+  Línea  7: stock insuficiente   | solicitado 500, disponible 22 (P105)
+  Línea 10: dato inválido        | 12,ENTRADA,P107,-3
+  Línea 13: stock insuficiente   | solicitado 400, disponible 18 (P102)
+========================================================================
